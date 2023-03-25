@@ -1,6 +1,6 @@
 # ProjetEtude_MSI4
 
-Cette application est conçue pour automatiser les tests de pénétration sur les systèmes cibles, en utilisant un ensemble d'outils déjà installéS. Elle permet de tester la sécurité des réseaux, des serveurs et des applications, et fournit des résultats détaillés sur les vulnérabilités détectées.
+Cette application est conçue pour semi-automatiser les tests de pénétration sur les systèmes cibles, en utilisant un ensemble d'outils déjà installéS. Elle permet de tester la sécurité des réseaux, des serveurs et des applications, et fournit des résultats détaillés sur les vulnérabilités détectées.
 
 
 ## Prérequis
